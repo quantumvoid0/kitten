@@ -13,3 +13,12 @@ curl -o ~/.local/bin/kitten https://raw.githubusercontent.com/quantumvoid0/kitte
 ```fish
 sudo rm -rf ~/.local/bin/kitten
 ```
+## Usage
+
+```fish
+kitten filename
+```
+
+```fish
+kitten /path/to/filename
+```
